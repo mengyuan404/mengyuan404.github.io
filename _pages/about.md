@@ -20,7 +20,7 @@ redirect_from:
 I am an Assitant Professor at the Department of Computer Science and Technology, Tsinghua University, China, working together with [Prof. Wenwu Zhu](https://www.cs.tsinghua.edu.cn/info/1116/3529.htm). 
 I was a postdoc Scholar at CS Department of Tsinghua University, advised by [Prof. Peng Cui](https://pengcui.thumedialab.com/) and [Prof. Wenwu Zhu](https://www.cs.tsinghua.edu.cn/info/1116/3529.htm).
 I obtained my Ph.D. degree from CS Department of Tsinghua University, supervised by [Prof. Dan Pei](https://netman.aiops.org/~peidan/) in 2016.
-My research interests lie in Multimedia Edge Intelligence, especially in model compression, model compression, and lightweight model generalization with causal methods. 
+My research interests lie in Multimedia Edge Intelligence, especially in model compression, model quantization, and lightweight model generalization with causal methods. 
 
 
 
