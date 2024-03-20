@@ -36,5 +36,10 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Chen Tang, **Yuan Meng**, Jiacheng Jiang, Shuzhao Xie, Rongwei Lu, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*.
+  
+* [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
+  
+  Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, **Yuan Meng**, Zhi Wang, Wenwu Zhu
 
+  *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*.
 
