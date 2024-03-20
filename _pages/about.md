@@ -29,4 +29,10 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 - *2024.03*: &nbsp;🎉🎉 One accepted paper by ICLR2024 workshop!
 
 
+# 📝 Publications 
+
+* [Retraining-free Model Quantization via One-Shot Weight-Coupling Learning](https://arxiv.org/pdf/2401.01543.pdf)
+Chen Tang, **Yuan Meng**, Jiacheng Jiang, Shuzhao Xie, Rongwei Lu, Xinzhu Ma, Zhi Wang, Wenwu Zhu
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*.
+
 
