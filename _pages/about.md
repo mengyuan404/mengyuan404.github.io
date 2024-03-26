@@ -25,8 +25,8 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One accepted paper by CVPR2024!
-- *2024.03*: &nbsp;🎉🎉 One accepted paper by ICLR2024 workshop!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR2024!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR2024 workshop!
 
 
 # 📝 Publications 
@@ -42,4 +42,10 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, **Yuan Meng**, Zhi Wang, Wenwu Zhu
 
   *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*.
+
+* [Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection]([https://dl.acm.org/doi/pdf/10.1145/3581783.3611975](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)
+
+  Xinzhu Ma, Yongtao Wang, Yinmin Zhang, Zhiyi Xia, **Yuan Meng**, Zhihui Wang, Haojie Li, Wanli Ouyang
+  
+  *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
 
