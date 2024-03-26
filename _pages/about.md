@@ -43,7 +43,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*.
 
-* [Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection]([https://dl.acm.org/doi/pdf/10.1145/3581783.3611975](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)
+* [Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection]((https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)
 
   Xinzhu Ma, Yongtao Wang, Yinmin Zhang, Zhiyi Xia, **Yuan Meng**, Zhihui Wang, Haojie Li, Wanli Ouyang
   
