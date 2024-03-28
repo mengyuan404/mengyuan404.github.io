@@ -61,4 +61,11 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023*
 
+* [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
+
+  Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
+  
+  *USENIX Annual Technical Conference (USENIX ATC) 2016*
+
+
  
