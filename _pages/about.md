@@ -49,3 +49,16 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
 
+* [TIVA-KG: A multimodal knowledge graph with text, image, video and audio](https://dl.acm.org/doi/pdf/10.1145/3581783.3612266)
+
+  Xin Wang, Benyuan Meng, Hong Chen, **Yuan Meng**, Ke Lv, Wenwu Zhu
+  
+ *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*
+
+* [Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)
+
+  Xinzhu Ma, Yongtao Wang, Yinmin Zhang, Zhiyi Xia, **Yuan Meng**, Zhihui Wang, Haojie Li, Wanli Ouyang
+  
+  *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
+
+ 
