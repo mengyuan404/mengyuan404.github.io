@@ -57,8 +57,8 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 * [Causal Discovery in Temporal Domain from Interventional Data](https://dl.acm.org/doi/pdf/10.1145/3583780.3615177)
 
-  Xinzhu Ma, Yongtao Wang, Yinmin Zhang, Zhiyi Xia, **Yuan Meng**, Zhihui Wang, Haojie Li, Wanli Ouyang
+  Peiwen Li, **Yuan Meng**, Xin Wang, Fang Shen, Yue Li, Jialong Wang, Wenwu Zhu
   
-  *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2023*
+  *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023*
 
  
