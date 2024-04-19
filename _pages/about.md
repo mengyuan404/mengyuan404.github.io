@@ -26,7 +26,8 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR2024!
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR2024 workshop!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR2024 Workshop!
+
 
 
 # 📝 Publications 
