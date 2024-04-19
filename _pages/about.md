@@ -85,6 +85,14 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *2022*
 
+* [Localizing failure root causes in a microservice through causality inference](https://nkcs.iops.ai/wp-content/uploads/2020/07/paper-IWQOS2020-MicroCause.pdf)
+
+  **Yuan Meng**, Shenglin Zhang, Yongqian Sun, Ruru Zhang, Zhilong Hu, Yiyin Zhang, Chenyang Jia, Zhaogang Wang, Dan Pei
+  
+  *IEEE/ACM 28th International Symposium on Quality of Service (IWQoS) 2022*
+
+    
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
