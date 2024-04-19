@@ -67,6 +67,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023*
 
+* [Distilling Causal Metaknowledge from Knowledge Graphs](http://sites.computer.org/debull/A22dec/A22DEC-CD.pdf#page=5)
+
+  **Yuan Meng**, Yancheng Dong, Shixuan Liu, Chaohao Yuan, Yue He, Jian Pei, Peng Cui
+  
+  *IEEE Data Eng. Bull. 2022*
+
 * [An empirical study of pseudo-labeling for image-based 3d object detection](https://arxiv.org/pdf/2208.07137.pdf)
 
   Xinzhu Ma, **Yuan Meng**, Yinmin Zhang, Lei Bai, Jun Hou, Shuai Yi, Wanli Ouyang
