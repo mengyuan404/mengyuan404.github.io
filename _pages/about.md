@@ -109,6 +109,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *International Conference on Computer Communication and Networks (ICCCN) 2017*
 
+* [Latency-based WiFi congestion control in the air for dense WiFi networks](https://netman.aiops.org/wp-content/uploads/2017/05/iwqos2017-pch.pdf)
+
+  Changhua Pei, Youjian Zhao, Yunxin Liu, Kun Tan, Jiansong Zhang, **Yuan Meng**, Dan Pei
+  
+  *IEEE/ACM 25th International Symposium on Quality of Service (IWQoS) 2017*
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
