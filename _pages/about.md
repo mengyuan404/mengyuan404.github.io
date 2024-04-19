@@ -103,6 +103,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE/ACM Transactions on Networking (ToN) 2018*
 
+* [How much are your neighbors interfering with your wifi delay?](https://1989chenguo.github.io/Publications/WING-ICCCN17.pdf)
+
+  Changhua Pei, Youjian Zhao, Guo Chen, **Yuan Meng**, Yang Liu, Ya Su, Yaodong Zhang, Ruming Tang, Dan Pei
+  
+  *International Conference on Computer Communication and Networks (ICCCN) 2017*
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
