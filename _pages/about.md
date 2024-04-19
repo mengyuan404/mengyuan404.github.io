@@ -97,6 +97,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE International Conference on Multimedia and Expo (ICME) 2019*
 
+* [FUSO: Fast Multi-Path Loss Recovery for Data Center Networks](https://netman.aiops.org/wp-content/uploads/2019/12/Causal_Analysis_of_the_Unsatisfying_Experience_in_Realtime_Mobile_Multiplayer_Games_in_the_Wild.pdf)
+
+  Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
+  
+  *IEEE/ACM Transactions on Networking (ToN) 2018*
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
