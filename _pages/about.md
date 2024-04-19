@@ -53,7 +53,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   Xin Wang, Benyuan Meng, Hong Chen, **Yuan Meng**, Ke Lv, Wenwu Zhu
   
- *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*
+  *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*
 
 * [Causal Discovery in Temporal Domain from Interventional Data](https://dl.acm.org/doi/pdf/10.1145/3583780.3615177)
 
