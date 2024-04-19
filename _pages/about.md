@@ -71,7 +71,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   Xinzhu Ma, **Yuan Meng**, Yinmin Zhang, Lei Bai, Jun Hou, Shuai Yi, Wanli Ouyang
   
-  *2023*
+  *2022*
 
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
