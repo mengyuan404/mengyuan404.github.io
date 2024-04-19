@@ -89,9 +89,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   **Yuan Meng**, Shenglin Zhang, Yongqian Sun, Ruru Zhang, Zhilong Hu, Yiyin Zhang, Chenyang Jia, Zhaogang Wang, Dan Pei
   
-  *IEEE/ACM 28th International Symposium on Quality of Service (IWQoS) 2022*
+  *IEEE/ACM 28th International Symposium on Quality of Service (IWQoS) 2020*
 
-    
+* [Causal analysis of the unsatisfying experience in realtime mobile multiplayer games in the wild](https://netman.aiops.org/wp-content/uploads/2019/12/Causal_Analysis_of_the_Unsatisfying_Experience_in_Realtime_Mobile_Multiplayer_Games_in_the_Wild.pdf)
+
+  **Yuan Meng**, Shenglin Zhang, Zijie Ye, Benliang Wang, Zhi Wang, Yongqian Sun, Qitong Liu, Shuai Yang, Dan Pei
+  
+  *IEEE International Conference on Multimedia and Expo (ICME) 2019*
 
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
