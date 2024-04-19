@@ -121,6 +121,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE International Conference on Computer Communications (INFOCOM) 2017*
 
+* [WiFi can be the weakest link of round trip network latency in the wild](https://netman.aiops.org/wp-content/uploads/2016/04/main.pdf)
+
+  Changhua Pei, Youjian Zhao, Guo Chen, Ruming Tang, **Yuan Meng**, Minghua Ma, Ken Ling, Dan Pei
+  
+  *IEEE International Conference on Computer Communications (INFOCOM) 2016*
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
