@@ -35,13 +35,19 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Chen Tang, **Yuan Meng**, Jiacheng Jiang, Shuzhao Xie, Rongwei Lu, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
-  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*.
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+  
+* [Investigating the Impact of Quantization on Adversarial Robustness](https://arxiv.org/pdf/2404.05639.pdf)
+  
+  Qun Li, **Yuan Meng**, Chen Tang, Jiacheng Jiang, Zhi Wang
+
+  *Workshop on Practical Machine Learning for Developing Countries (PML4DC), (ICLR) 2024*.
   
 * [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
   
   Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, **Yuan Meng**, Zhi Wang, Wenwu Zhu
 
-  *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*.
+  *Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023*
 
 * [Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Towards_Fair_and_Comprehensive_Comparisons_for_Image-Based_3D_Object_Detection_ICCV_2023_paper.pdf)
 
