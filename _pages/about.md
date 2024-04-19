@@ -115,6 +115,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE/ACM 25th International Symposium on Quality of Service (IWQoS) 2017*
 
+* [Why it takes so long to connect to a WiFi access point](https://arxiv.org/pdf/1701.02528.pdf)
+
+  Changhua Pei, Zhi Wang, Youjian Zhao, Zihan Wang, **Yuan Meng**, Dan Pei, Yuanquan Peng, Wenliang Tang, Xiaodong Qu
+  
+  *IEEE International Conference on Computer Communications (INFOCOM) 2017*
+
 * [Fast and cautious: Leveraging multi-path diversity for transport loss recovery in data centers](https://www.usenix.org/system/files/conference/atc16/atc16_paper_chen.pdf)
 
   Guo Chen, Yuanwei Lu, **Yuan Meng**, Bojie Li, Kun Tan, Dan Pei, Peng Cheng, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, Youjian Zhao
