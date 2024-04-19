@@ -41,7 +41,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Qun Li, **Yuan Meng**, Chen Tang, Jiacheng Jiang, Zhi Wang
 
-  *Workshop on Practical Machine Learning for Developing Countries (PML4DC), (ICLR) 2024*.
+  *Workshop on Practical Machine Learning for Developing Countries (PML4DC), (ICLR) 2024*
+
+* [TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models](https://arxiv.org/pdf/2404.09532.pdf)
+  
+  Haojun Sun, Chen Tang, Zhi Wang, **Yuan Meng**, Jingyan jiang, Xinzhu Ma, Wenwu Zhu
+
+  *2024*.
   
 * [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
   
