@@ -90,7 +90,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   **Yuan Meng**, Shenglin Zhang, Yongqian Sun, Ruru Zhang, Zhilong Hu, Yiyin Zhang, Chenyang Jia, Zhaogang Wang, Dan Pei
   
-  *IEEE/ACM 28th International Symposium on Quality of Service (IWQoS) 2020*
+  *IEEE/ACM International Symposium on Quality of Service (IWQoS) 2020*
+
+* [Fluxinfer: Automatic diagnosis of performance anomaly for online database system](https://d1wqtxts1xzle7.cloudfront.net/100422731/paper-IPCCC20-FluxInfer-libre.pdf?1680141994=&response-content-disposition=inline%3B+filename%3DFluxInfer_Automatic_Diagnosis_of_Perform.pdf&Expires=1713786110&Signature=hP2HOURvDX5oDIRjtlELLwt5jnGmb43y0M0n9yf0Psl9Gow0ic6btQmFsy3nyNUGNMosDoQJ3nWkHqVuETZ4uklC4SVp~GVBZh4v70TYW3U5DlPXujzhUxTFQuKME8JJFxXUqIh0pEFTLSPL1a0rcjo80UigPsvQ-5i2HChmzWgKuUdjPPee3VurSf~galvnMWNHUwFi~yvY587C0tpM9bAjTWFw6IggqnMaLIwS4j9GRPaOrOB~ctYfRYn4WN20ODoTZZoDgN~rgzRBXfpzTbrvx53TbWpSmYNFmta7Hq3u~keHRumDOaarfV2Y8aIP3xJaY0X6M-zb8Ajz7jD6pQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+  Ping Liu, Shenglin Zhang, Yongqian Sun, **Yuan Meng**, Jiahai Yang, Dan Pei
+  
+  *IEEE International Performance Computing and Communications Conference (IPCCC) 2020*
 
 * [Causal analysis of the unsatisfying experience in realtime mobile multiplayer games in the wild](https://netman.aiops.org/wp-content/uploads/2019/12/Causal_Analysis_of_the_Unsatisfying_Experience_in_Realtime_Mobile_Multiplayer_Games_in_the_Wild.pdf)
 
@@ -104,11 +110,11 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE/ACM Transactions on Networking (ToN) 2018*
 
-* [How much are your neighbors interfering with your wifi delay?](https://1989chenguo.github.io/Publications/WING-ICCCN17.pdf)
+* [Hotspot: Anomaly localization for additive kpis with multi-dimensional attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8288614)
 
-  Changhua Pei, Youjian Zhao, Guo Chen, **Yuan Meng**, Yang Liu, Ya Su, Yaodong Zhang, Ruming Tang, Dan Pei
+  Yongqian Sun, Youjian Zhao, Ya Su, Dapeng Liu, Xiaohui Nie, **Yuan Meng**, Shiwen Cheng, Dan Pei, Shenglin Zhang, Xianping Qu, Xuanyou Guo
   
-  *International Conference on Computer Communication and Networks (ICCCN) 2017*
+  *IEEE Access 2018*
 
 * [Latency-based WiFi congestion control in the air for dense WiFi networks](https://netman.aiops.org/wp-content/uploads/2017/05/iwqos2017-pch.pdf)
 
@@ -121,6 +127,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Changhua Pei, Zhi Wang, Youjian Zhao, Zihan Wang, **Yuan Meng**, Dan Pei, Yuanquan Peng, Wenliang Tang, Xiaodong Qu
   
   *IEEE International Conference on Computer Communications (INFOCOM) 2017*
+
+* [How much are your neighbors interfering with your wifi delay?](https://1989chenguo.github.io/Publications/WING-ICCCN17.pdf)
+
+  Changhua Pei, Youjian Zhao, Guo Chen, **Yuan Meng**, Yang Liu, Ya Su, Yaodong Zhang, Ruming Tang, Dan Pei
+  
+  *International Conference on Computer Communication and Networks (ICCCN) 2017*
 
 * [WiFi can be the weakest link of round trip network latency in the wild](https://netman.aiops.org/wp-content/uploads/2016/04/main.pdf)
 
