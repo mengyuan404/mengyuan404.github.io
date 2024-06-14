@@ -25,8 +25,9 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR2024!
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR2024 Workshop!
+- *2024.06*: &nbsp;🎉🎉 One paper was accepted by KDD 2024!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2024!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 Workshop!
 
 
 
@@ -47,6 +48,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 * [TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models](https://arxiv.org/pdf/2404.09532.pdf)
   
   Haojun Sun, Chen Tang, Zhi Wang, **Yuan Meng**, Jingyan jiang, Xinzhu Ma, Wenwu Zhu
+
+  *2024*.
+
+* [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/abs/2405.20202)
+  
+  Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, **Yuan Meng**, Tong Zhang, Jia Li
 
   *2024*.
   
