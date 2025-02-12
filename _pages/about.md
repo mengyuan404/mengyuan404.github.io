@@ -41,18 +41,11 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
 
 
-* [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/pdf/2411.16313?)
-  
-  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
-
-  *2024*.
-
 * [GAQAT: gradient-adaptive quantization-aware training for domain generalization](https://arxiv.org/pdf/2412.05551)
   
   Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
 
   *2024*.
-
 
 * [Retraining-free Model Quantization via One-Shot Weight-Coupling Learning](https://arxiv.org/pdf/2401.01543.pdf)
   
@@ -77,7 +70,39 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, **Yuan Meng**, Tong Zhang, Jia Li
 
   *2024*.
+
+* [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
   
+  Lei Chen, **Yuan Meng**, Chen Tang, Xinzhu Ma, Jingyan Jiang, Xin Wang, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+
+* [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
+  
+ Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+
+
+* [Evaluating the Generalization Ability of Quantized LLMs: Benchmark, Analysis, and Toolbox](https://arxiv.org/pdf/2406.12928)
+  
+  Yijun Liu, **Yuan Meng**, Fang Wu, Shenhao Peng, Hang Yao, Chaoyu Guan, Chen Tang, Xinzhu Ma, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+  
+
+* [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/pdf/2411.16313?)
+  
+  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+
+* [RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3627673.3680042)
+  
+  Peiwen Li, Xin Wang, Zeyang Zhang, **Yuan Meng**, Fang Shen, Yue Li, Jialong Wang, Yang Li, Wenwu Zhu
+
+  *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024*.
+
 * [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
   
   Chen Tang, Kai Ouyang, Zenghao Chai, Yunpeng Bai, **Yuan Meng**, Zhi Wang, Wenwu Zhu
