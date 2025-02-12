@@ -25,6 +25,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025!
 - *2024.06*: &nbsp;🎉🎉 One paper was accepted by KDD 2024!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2024!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 Workshop!
@@ -32,6 +33,26 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 
 # 📝 Publications 
+
+* [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
+  
+  Mingzi Wang, **Yuan Meng**, Chen Tang, Weixiang Zhang, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan1, Zhi Wang1, Wenwu Zhu
+
+  *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
+
+
+* [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/pdf/2411.16313?)
+  
+  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+
+* [GAQAT: gradient-adaptive quantization-aware training for domain generalization](https://arxiv.org/pdf/2412.05551)
+  
+  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
+
+  *2024*.
+
 
 * [Retraining-free Model Quantization via One-Shot Weight-Coupling Learning](https://arxiv.org/pdf/2401.01543.pdf)
   
