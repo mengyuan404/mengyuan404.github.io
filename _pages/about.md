@@ -79,7 +79,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 * [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
   
- Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
+  Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
   *2024*.
 
