@@ -23,11 +23,24 @@ I obtained my Ph.D. degree from CS Department of Tsinghua University, supervised
 My research interests lie in Multimedia Edge Intelligence, especially in model compression, model quantization, and lightweight model generalization with causal methods. 
 
 
+# 🔥 News
+- *2025.03*  &nbsp;🎉🎉 One paper was accepted by CVPR 2025!
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025!
+- *2024.06*: &nbsp;🎉🎉 One paper was accepted by KDD 2024!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2024!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 Workshop!
 
 
 
 
 # 📝 Publications 
+
+* [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
+  
+  Lei Chen, **Yuan Meng**, Chen Tang, Xinzhu Ma, Jingyan Jiang, Xin Wang, Zhi Wang, Wenwu Zhu
+
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025*
+
 
 * [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
   
@@ -63,12 +76,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 * [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/abs/2405.20202)
   
   Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, **Yuan Meng**, Tong Zhang, Jia Li
-
-  *2024*.
-
-* [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
-  
-  Lei Chen, **Yuan Meng**, Chen Tang, Xinzhu Ma, Jingyan Jiang, Xin Wang, Zhi Wang, Wenwu Zhu
 
   *2024*.
 
