@@ -44,7 +44,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 * [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
   
-  Mingzi Wang, **Yuan Meng**, Chen Tang, Weixiang Zhang, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan1, Zhi Wang1, Wenwu Zhu
+  Mingzi Wang, **Yuan Meng**, Chen Tang, Weixiang Zhang, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu
 
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
 
