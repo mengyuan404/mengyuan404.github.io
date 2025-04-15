@@ -49,6 +49,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
 
 
+* [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://dl.acm.org/doi/pdf/10.1145/3637528.3671706)
+  
+ Beini Xie, Heng Chang, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, **Yuan Meng**, Wenwu Zhu
+
+  *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024*
+
+
 * [GAQAT: gradient-adaptive quantization-aware training for domain generalization](https://arxiv.org/pdf/2412.05551)
   
   Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
