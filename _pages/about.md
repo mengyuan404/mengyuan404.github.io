@@ -53,7 +53,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Beini Xie, Heng Chang, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, **Yuan Meng**, Wenwu Zhu
 
-  *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024*
+  *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 
 * [GAQAT: gradient-adaptive quantization-aware training for domain generalization](https://arxiv.org/pdf/2412.05551)
