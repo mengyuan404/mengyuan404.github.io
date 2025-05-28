@@ -50,7 +50,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 * [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/pdf/2405.20202?)
   
- Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, Yuan Meng, Tong Zhang, Jia Li
+  Ke Yi, Yuhui Xu, Heng Chang, **Yuan Meng**, Tong Zhang, Jia Li
 
   *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025*
 
