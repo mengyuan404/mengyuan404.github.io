@@ -23,12 +23,12 @@ I obtained my Ph.D. degree from CS Department of Tsinghua University, supervised
 My research interests lie in Multimedia Edge Intelligence, especially in model compression, model quantization, and lightweight model generalization with causal methods. 
 
 
-# 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2025!
-- *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025!
-- *2024.06*: &nbsp;🎉🎉 One paper was accepted by KDD 2024!
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2024!
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 Workshop!
+%# 🔥 News
+%- *2025.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2025!
+%- *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025!
+%- *2024.06*: &nbsp;🎉🎉 One paper was accepted by KDD 2024!
+%- *2024.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2024!
+%- *2024.03*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 Workshop!
 
 
 
@@ -47,6 +47,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Mingzi Wang, **Yuan Meng**, Chen Tang, Weixiang Zhang, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu
 
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
+
+* [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/pdf/2405.20202?)
+  
+ Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, Yuan Meng, Tong Zhang, Jia Li
+
+  *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025*
 
 
 * [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://dl.acm.org/doi/pdf/10.1145/3637528.3671706)
