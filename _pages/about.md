@@ -37,6 +37,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025*
 
 
+* [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/pdf/2411.16313?)
+  
+  Duo Wu, Jinghe Wang, **Yuan Meng**, Yanning Zhang, Le Sun, Zhi Wang
+
+  *International Conference on Computer Vision, (ICCV) 2025*.
+
+
 * [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
   
   Mingzi Wang, **Yuan Meng**, Chen Tang, Weixiang Zhang, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu
@@ -81,12 +88,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *2024*.
 
-* [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/abs/2405.20202)
-  
-  Ke Yi, Yuhui Xu, Heng Chang, Chen Tang, **Yuan Meng**, Tong Zhang, Jia Li
-
-  *2024*.
-
 * [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
   
   Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
@@ -100,12 +101,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *2024*.
   
-
-* [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/pdf/2411.16313?)
-  
-  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
-
-  *2024*.
 
 * [RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3627673.3680042)
   
