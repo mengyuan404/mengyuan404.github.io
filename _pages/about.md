@@ -51,7 +51,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
 
 
-* [Quantization Meets OOD: Generalizable Quantization-aware Training from a Flatness Perspective]
+* [Quantization Meets OOD: Generalizable Quantization-aware Training from a Flatness Perspective]()
   
   Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
 
