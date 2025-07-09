@@ -50,6 +50,14 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI) 2025*
 
+
+* [Quantization Meets OOD: Generalizable Quantization-aware Training from a Flatness Perspective]
+  
+  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
+
+  *ACM Multimedia (MM) 2025*.
+
+
 * [One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](https://arxiv.org/pdf/2405.20202?)
   
   Ke Yi, Yuhui Xu, Heng Chang, **Yuan Meng**, Tong Zhang, Jia Li
@@ -64,11 +72,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 
-* [GAQAT: gradient-adaptive quantization-aware training for domain generalization](https://arxiv.org/pdf/2412.05551)
-  
-  Jiacheng Jiang, **Yuan Meng**, Chen Tang, Han Yu, Qun Li, Zhi Wang, Wenwu Zhu
-
-  *2024*.
 
 * [Retraining-free Model Quantization via One-Shot Weight-Coupling Learning](https://arxiv.org/pdf/2401.01543.pdf)
   
