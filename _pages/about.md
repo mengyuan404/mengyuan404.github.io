@@ -30,6 +30,14 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
+
+* [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
+  
+  Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
+
+  *Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025.*.
+
+
 * [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
   
   Lei Chen, **Yuan Meng**, Chen Tang, Xinzhu Ma, Jingyan Jiang, Xin Wang, Zhi Wang, Wenwu Zhu
@@ -41,7 +49,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Duo Wu, Jinghe Wang, **Yuan Meng**, Yanning Zhang, Le Sun, Zhi Wang
 
-  *International Conference on Computer Vision, (ICCV) 2025*.
+  *International Conference on Computer Vision (ICCV) 2025*.
 
 
 * [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
@@ -72,7 +80,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 
-
 * [Retraining-free Model Quantization via One-Shot Weight-Coupling Learning](https://arxiv.org/pdf/2401.01543.pdf)
   
   Chen Tang, **Yuan Meng**, Jiacheng Jiang, Shuzhao Xie, Rongwei Lu, Xinzhu Ma, Zhi Wang, Wenwu Zhu
@@ -88,12 +95,6 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 * [TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models](https://arxiv.org/pdf/2404.09532.pdf)
   
   Haojun Sun, Chen Tang, Zhi Wang, **Yuan Meng**, Jingyan jiang, Xinzhu Ma, Wenwu Zhu
-
-  *2024*.
-
-* [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
-  
-  Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
   *2024*.
 
