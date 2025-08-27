@@ -35,7 +35,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
-  *Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025.*.
+  *Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025*.
 
 
 * [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
