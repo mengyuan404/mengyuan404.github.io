@@ -41,7 +41,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Han Deng, **Yuan Meng**, Shixiang Tang, Wanli Ouyang, Xinzhu Ma
 
-  *The Thirty-ninth Annual Conference on Neural Information Processing Systems (Neurips) 2025*.
+  *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025*.
 
 * [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
   
