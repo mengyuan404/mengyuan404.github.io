@@ -5,7 +5,13 @@ from scholarly import scholarly
   from itertools import islice
 
   SCHOLAR_ID = os.environ["GOOGLE_SCHOLAR_ID"]
-  MAX_CITING_PER_PAPER = int(os.getenv("MAX_CITING_PER_PAPER", "300"))  # 可调大
+
+  # Fast mode defaults:
+  # - Skip citation edges by default to ensure quick success.
+  # - Limit papers to keep runtime manageable.
+  SKIP_EDGES = os.getenv("SKIP_EDGES", "1") == "1"
+  MAX_PAPERS = int(os.getenv("MAX_PAPERS", "80"))
+  MAX_CITING_PER_PAPER = int(os.getenv("MAX_CITING_PER_PAPER", "20"))
 
   def pub_row(p):
       b = p.get("bib", {})
@@ -23,13 +29,24 @@ from scholarly import scholarly
 
   papers = []
   edges = []
-  for stub in author.get("publications", []):
-      p = scholarly.fill(stub)
+
+  pubs = author.get("publications", [])[:MAX_PAPERS]
+  for stub in pubs:
+      try:
+          p = scholarly.fill(stub)
+      except Exception:
+          # Skip failed paper fetch and continue.
+          continue
+
       pr = pub_row(p)
       papers.append(pr)
 
+      if SKIP_EDGES:
+          continue
+
       if pr["num_citations"] <= 0:
           continue
+
       try:
           for c in islice(scholarly.citedby(p), MAX_CITING_PER_PAPER):
               cb = c.get("bib", {})
@@ -42,9 +59,11 @@ from scholarly import scholarly
                   "citing_pub_url": c.get("pub_url", ""),
               })
       except Exception:
+          # Cited-by traversal is often rate-limited; skip quietly.
           pass
 
   os.makedirs("results", exist_ok=True)
+
   with open("results/gs_data.json", "w", encoding="utf-8") as f:
       json.dump({
           "scholar_id": SCHOLAR_ID,
@@ -52,11 +71,20 @@ from scholarly import scholarly
           "name": author.get("name", ""),
           "affiliation": author.get("affiliation", ""),
           "citedby": author.get("citedby", 0),
-          "papers": papers
+          "paper_count_fetched": len(papers),
+          "skip_edges": SKIP_EDGES,
+          "max_papers": MAX_PAPERS,
+          "max_citing_per_paper": MAX_CITING_PER_PAPER,
+          "papers": papers,
       }, f, ensure_ascii=False, indent=2)
 
   with open("results/citation_edges.json", "w", encoding="utf-8") as f:
-      json.dump(edges, f, ensure_ascii=False, indent=2)
+      json.dump({
+          "updated": str(datetime.now()),
+          "skip_edges": SKIP_EDGES,
+          "edge_count": len(edges),
+          "edges": edges,
+      }, f, ensure_ascii=False, indent=2)
 
   shieldio_data = {
       "schemaVersion": 1,
