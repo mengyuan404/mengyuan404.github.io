@@ -30,18 +30,47 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
+* [Test-time Sparsity for Extreme Fast Action Diffusion]()
+  
+  Kangye Ji, **Yuan Meng**, Jianbo Zhou, Ye Li, Chen Tang, Zhi Wang
+  
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+
+* [Block-wise adaptive caching for accelerating diffusion policy](https://arxiv.org/pdf/2506.13456)
+  
+  Kangye Ji, **Yuan Meng**, Hanyun Cui, Ye Li, Shengjia Hua, Lei Chen, Zhi Wang
+  
+  *International Conference on Learning Representations (ICLR) 2026*
+
+* [Sp-vla: A joint model scheduling and token pruning approach for vla model acceleration](https://arxiv.org/pdf/2506.12723)
+  
+  Ye Li, **Yuan Meng**, Zewen Sun, Kangye Ji, Chen Tang, Jiajun Fan, Xinzhu Ma, Shutao Xia, Zhi Wang, Wenwu Zhu
+
+  *International Conference on Learning Representations (ICLR) 2026*
+
+* [Adaptive Mixture of Disentangled Experts for Dynamic Graph Out-of-Distribution Generalization]()
+  
+  Haibo Chen, Xin Wang, Guanheng Chen, **Yuan Meng**, Haoyang Li, Yang Yao, Zeyang Zhang, Zhiqiang Zhang, Jun Zhou, Ling Feng, Wenwu Zhu
+
+  *International Conference on Learning Representations (ICLR) 2026*
+
+* [Disentangled Graph LLM for Molecule Graph Editing under Distribution Shifts](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2026_Disentangled%20Graph%20LLM%20for%20Molecule%20Graph%20Editing%20under%20Distribution%20Shifts.pdf)
+  
+  Yang Yao, Xin Wang, **Yuan Meng**, Zeyang Zhang, Hong Mei, Wenwu Zhu
+
+  *The Web Conference (WWW) 2026*
 
 * [PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference](https://arxiv.org/pdf/2407.05010)
   
   Ye Li, Chen Tang, **Yuan Meng**, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
-  *Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025*.
+  *Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025*
 
-* [CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programmin]()
+* [CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programmin](https://arxiv.org/pdf/2505.12925)
   
   Han Deng, **Yuan Meng**, Shixiang Tang, Wanli Ouyang, Xinzhu Ma
 
-  *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025*.
+  *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025*
 
 * [Q-dit: Accurate post-training quantization for diffusion transformers](https://arxiv.org/pdf/2406.17343)
   
@@ -54,7 +83,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Duo Wu, Jinghe Wang, **Yuan Meng**, Yanning Zhang, Le Sun, Zhi Wang
 
-  *International Conference on Computer Vision (ICCV) 2025*.
+  *International Conference on Computer Vision (ICCV) 2025*
 
 
 * [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/pdf/2501.05339?)
@@ -115,7 +144,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   Peiwen Li, Xin Wang, Zeyang Zhang, **Yuan Meng**, Fang Shen, Yue Li, Jialong Wang, Yang Li, Wenwu Zhu
 
-  *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024*.
+  *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024*
 
 * [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
   
