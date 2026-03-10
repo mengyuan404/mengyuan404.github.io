@@ -106,6 +106,11 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2025*
 
+* [3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o](https://arxiv.org/pdf/2503.13185)
+  
+  Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, **Yuan Meng**, Zhihui Wang
+
+  *Neurocomputing 2025*
 
 * [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://dl.acm.org/doi/pdf/10.1145/3637528.3671706)
   
@@ -126,6 +131,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *Workshop on Practical Machine Learning for Developing Countries (PML4DC), (ICLR) 2024*
 
+<!--
 * [TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models](https://arxiv.org/pdf/2404.09532.pdf)
   
   Haojun Sun, Chen Tang, Zhi Wang, **Yuan Meng**, Jingyan jiang, Xinzhu Ma, Wenwu Zhu
@@ -138,13 +144,19 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   Yijun Liu, **Yuan Meng**, Fang Wu, Shenhao Peng, Hang Yao, Chaoyu Guan, Chen Tang, Xinzhu Ma, Zhi Wang, Wenwu Zhu
 
   *2024*.
-  
+-->
 
 * [RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3627673.3680042)
   
   Peiwen Li, Xin Wang, Zeyang Zhang, **Yuan Meng**, Fang Shen, Yue Li, Jialong Wang, Yang Li, Wenwu Zhu
 
   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024*
+
+* [PDEC: A Framework for Improving Knowledge Graph Reasoning Performance through Predicate Decomposition](https://www.mdpi.com/1999-4893/17/3/129)
+  
+ Xin Tian, **Yuan Meng**
+ 
+  *Algorithms 2024*
 
 * [SEAM: Searching Transferable Mixed-Precision Quantization Policy through Large Margin Regularization](https://dl.acm.org/doi/pdf/10.1145/3581783.3611975)
   
@@ -176,11 +188,14 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *IEEE Data Eng. Bull. 2022*
 
+<!--
+
 * [An empirical study of pseudo-labeling for image-based 3d object detection](https://arxiv.org/pdf/2208.07137.pdf)
 
   Xinzhu Ma, **Yuan Meng**, Yinmin Zhang, Lei Bai, Jun Hou, Shuai Yi, Wanli Ouyang
   
   *2022*
+-->
 
 * [Localizing failure root causes in a microservice through causality inference](https://nkcs.iops.ai/wp-content/uploads/2020/07/paper-IWQOS2020-MicroCause.pdf)
 
