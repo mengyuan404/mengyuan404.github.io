@@ -154,7 +154,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 * [PDEC: A Framework for Improving Knowledge Graph Reasoning Performance through Predicate Decomposition](https://www.mdpi.com/1999-4893/17/3/129)
   
- Xin Tian, **Yuan Meng**
+  Xin Tian, **Yuan Meng**
  
   *Algorithms 2024*
 
