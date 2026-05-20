@@ -30,7 +30,13 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
-* [Test-time Sparsity for Extreme Fast Action Diffusion]()
+* [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning]()
+  
+  Kangye Ji, Jianbo Zhou, **Yuan Meng**, Ye Li, Hanyun Cui, Zhi Wang
+  
+  *International Conference on Machine Learning (ICML) 2026*
+
+* [Test-time Sparsity for Extreme Fast Action Diffusion](https://arxiv.org/abs/2605.13316)
   
   Kangye Ji, **Yuan Meng**, Jianbo Zhou, Ye Li, Chen Tang, Zhi Wang
   
