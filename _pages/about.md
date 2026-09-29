@@ -30,7 +30,7 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
-* [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning]()
+* [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](https://arxiv.org/pdf/2601.12894)
   
   Kangye Ji, Jianbo Zhou, **Yuan Meng**, Ye Li, Hanyun Cui, Zhi Wang
   
