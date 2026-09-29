@@ -30,6 +30,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
+* [ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2605.29438)
+  
+  Ye Li, Huanan Liu, Kangye Ji, **Yuan Meng**, Jiajun Fan, Yuansong Wang, Shiyu Qin, Chenglei Wu, Shu-Tao Xia, Zhi Wang
+  
+  *The Annual Conference on Neural Information Processing Systems (NeurIPS) 2026*
+
 * [TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration](https://arxiv.org/abs/2512.15773)
   
   Ye Li, Jiahe Feng, **Yuan Meng**, Kangye Ji, Chen Tang, Jiajun Fan, Xinwan Wen, Jiawei Li, Wenwu Zhu, Shu-Tao Xia, Xin Wang, Zhi Wang
