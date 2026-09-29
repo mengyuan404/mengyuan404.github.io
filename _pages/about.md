@@ -30,6 +30,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
 # 📝 Publications 
 
+* [TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration](https://arxiv.org/abs/2512.15773)
+  
+  Ye Li, Jiahe Feng, **Yuan Meng**, Kangye Ji, Chen Tang, Jiajun Fan, Xinwan Wen, Jiawei Li, Wenwu Zhu, Shu-Tao Xia, Xin Wang, Zhi Wang
+  
+  *IEEE Transactions on Multimedia (TMM) 2026*
+
 * [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](https://arxiv.org/pdf/2601.12894)
   
   Kangye Ji, Jianbo Zhou, **Yuan Meng**, Ye Li, Hanyun Cui, Zhi Wang
