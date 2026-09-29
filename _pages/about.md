@@ -36,6 +36,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
   
   *The Annual Conference on Neural Information Processing Systems (NeurIPS) 2026*
 
+* [MM-DyGraph: A Dataset, Benchmark, and Model for Multimodal Dynamic Graphs]()
+  
+  Zongyuan Wu, Pengjie Wang, Lingshan Chen, Tianhang Wan, **Yuan Meng**, Xin Wang, Ling Feng, Wenwu Zhu
+  
+  *The Annual Conference on Neural Information Processing Systems (NeurIPS) 2026*
+
 * [TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration](https://arxiv.org/abs/2512.15773)
   
   Ye Li, Jiahe Feng, **Yuan Meng**, Kangye Ji, Chen Tang, Jiajun Fan, Xinwan Wen, Jiawei Li, Wenwu Zhu, Shu-Tao Xia, Xin Wang, Zhi Wang
