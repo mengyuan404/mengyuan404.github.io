@@ -136,6 +136,12 @@ My research interests lie in Multimedia Edge Intelligence, especially in model c
 
   *Neurocomputing 2025*
 
+* [Dynamic Model Fusion for Multi-Source Test-Time Adaptation](https://journals.sagepub.com/doi/pdf/10.3233/FAIA251064)
+  
+  Yuan Xue, Qinting Jiang, **Yuan Meng**, Xingxuan Zhang, Chen Tang, Jingyan Jiang, Zhi Wang
+
+  *European Conference on Artificial Intelligence (ECAI) 2025*
+
 * [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://dl.acm.org/doi/pdf/10.1145/3637528.3671706)
   
   Beini Xie, Heng Chang, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, **Yuan Meng**, Wenwu Zhu
